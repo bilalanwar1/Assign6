@@ -28,7 +28,7 @@ const ReviewSec = () => {
               <Image src="/Image-R2.png" alt="Stars" width={80} height={80} />
             </Link>
             <p className='text-lg font-semibold mt-2'>Joseph Munyambu</p>
-            <p className='text-base mb-2'>Nursing Assistant</p>
+            <p className='text-base mb-2'>Nursing Assistant.</p>
             <div className='flex gap-5'>
               <Link href="#">
                 <Image src="/Social-Icons.png" alt="Social Icons" width={100} height={24} />
